@@ -1,0 +1,4 @@
+101      coronavac           1000             15
+102    covidshield           2000             15
+103       verocell            600             15
+104        covaxin            500             15
